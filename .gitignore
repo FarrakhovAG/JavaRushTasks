@@ -1,10 +1,10 @@
 ﻿#############
 ## Idea
 #############
-target/
-.idea/
+target
+out
 .idea
-.repository/
+.repository
 *.iml
 *.iws
 *.jrtc
@@ -13,14 +13,4 @@ target/
 *.info
 *.properties
 *.jar
-
-/1.JavaSyntax/
-/2.JavaCore/
-/3.JavaMultithreading/
-/4.JavaCollections/
-/5.OnlineInternship/
-/out/
-/JavaRushPlugin.properties
-/Instruction.png
-/out.log
-/out.log.*
+*.log
